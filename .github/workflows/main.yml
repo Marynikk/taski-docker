@@ -124,6 +124,7 @@ jobs:
           push: true
           tags: marynikk/taski_gateway:latest
 
+
   deploy:
     runs-on: ubuntu-latest
     needs: 
